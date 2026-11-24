@@ -105,7 +105,7 @@ def main():
     out = replace_once(out, '<html lang="en" dir="ltr">', '<html lang="ar" dir="rtl">', "html tag")
     out = replace_once(out, "<title>Next Technologies | Technology Advisory &amp; Solution Architecture in Riyadh</title>",
                        f"<title>{page['title']}</title>", "title")
-    desc_en = "Next Technologies connects business priorities with practical technology through advisory, solution architecture and integration."
+    desc_en = "Riyadh technology advisory and solution architecture firm: vendor-neutral RFP evaluation, cloud, cybersecurity, AI and branch technology in Saudi Arabia."
     out = replace_once(out, f'<meta name="description" content="{desc_en}">',
                        f'<meta name="description" content="{page["description"]}">', "meta description")
 
