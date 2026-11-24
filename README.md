@@ -33,7 +33,7 @@ https://nextec.sa/ar/ (Arabic). Static pages, hosted on cPanel.
 ## Deploying
 
 Upload to the domain's `public_html` on cPanel: `index.html`, `ar/index.html`,
-`thank-you.html`, `sitemap.xml`, `robots.txt`, `favicon.png` and any changed files in
+`thank-you.html`, `sitemap.xml`, `robots.txt`, `llms.txt`, `favicon.png` and any changed files in
 `assets/`. Back up the files being replaced first. `i18n/`, `tools/` and the Markdown
 files are not needed on the server.
 

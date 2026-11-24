@@ -1,0 +1,37 @@
+# Next Technologies
+
+> Next Technologies (نيكست تيكنولوجيز) is a Riyadh-based technology advisory and solution architecture company. It helps organizations in Saudi Arabia make informed technology decisions and build connected, scalable IT environments. Advice comes first; delivery is coordinated with specialist partners when the client chooses.
+
+- Website: https://nextec.sa (English), https://nextec.sa/ar/ (Arabic)
+- Location: Riyadh, Saudi Arabia
+- Phone: +966 56 666 6711
+- LinkedIn: https://www.linkedin.com/company/next-technologies-sa
+- Languages: English and Arabic
+
+## How we help
+
+- Advise: choosing a technology direction. Current-environment assessment, solution options and architecture, a prioritized roadmap.
+- Connect: making systems work together. Integrated blueprints, integration and rollout planning, supplier and delivery coordination.
+- Evaluate: buying against the right requirements. Requirements and RFP development, evaluation criteria and scoring, technical bid assessment.
+
+## Solutions and services
+
+- Cloud and hybrid: cloud readiness, landing zones, migration planning.
+- Infrastructure and resilience: infrastructure design, backup and recovery, availability.
+- Cybersecurity: security architecture, identity and access, solution evaluation.
+- AI strategy and adoption: use-case prioritization, readiness, pilot planning.
+- RFP and technical evaluation: requirements, RFP development, bid assessment.
+- Retail and branch technology: ERP and POS, connectivity, branch rollout planning.
+
+## How we work
+
+1. Understand: objectives, current environment, constraints and success criteria.
+2. Shape: compare options; develop architecture, roadmap and requirements.
+3. Coordinate: align suppliers, interfaces and delivery responsibilities.
+4. Review: review deliverables and support handover against acceptance criteria.
+
+Deliverables, delivery ownership and specialist partner involvement are defined before work begins. Advisory and evaluation engagements clarify supplier relationships and commercial interests when scope is agreed.
+
+## Contact
+
+A first conversation is a focused 45 minutes: https://nextec.sa/#contact
