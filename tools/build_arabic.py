@@ -103,7 +103,7 @@ def main():
 
     # Page language, direction, title and description.
     out = replace_once(out, '<html lang="en" dir="ltr">', '<html lang="ar" dir="rtl">', "html tag")
-    out = replace_once(out, "<title>Next Technologies | Technology Advisory &amp; Solution Architecture in Riyadh</title>",
+    out = replace_once(out, "<title>Next Technologies | Technology Advisory &amp; Solution Architecture</title>",
                        f"<title>{page['title']}</title>", "title")
     desc_en = "Riyadh technology advisory and solution architecture firm: vendor-neutral RFP evaluation, cloud, cybersecurity, AI and branch technology in Saudi Arabia."
     out = replace_once(out, f'<meta name="description" content="{desc_en}">',
@@ -114,7 +114,7 @@ def main():
                        '<link rel="canonical" href="https://nextec.sa/ar/">', "canonical")
     out = replace_once(out, '<meta property="og:site_name" content="Next Technologies">',
                        f'<meta property="og:site_name" content="{page["siteName"]}">', "og:site_name")
-    out = replace_once(out, '<meta property="og:title" content="Next Technologies | Technology Advisory &amp; Solution Architecture in Riyadh">',
+    out = replace_once(out, '<meta property="og:title" content="Next Technologies | Technology Advisory &amp; Solution Architecture">',
                        f'<meta property="og:title" content="{page["title"]}">', "og:title")
     out = replace_once(out, f'<meta property="og:description" content="{desc_en}">',
                        f'<meta property="og:description" content="{page["description"]}">', "og:description")
